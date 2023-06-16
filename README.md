@@ -1,3 +1,7 @@
+CONTRACT ADDRESS : 0xc96dfF595B77cae313A908FEeAf5A7Ee8Bd6805b
+BSC TESTNET CONTRACT ADDRESS : https://testnet.bscscan.com/address/0xc96dfF595B77cae313A908FEeAf5A7Ee8Bd6805b
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
